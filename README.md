@@ -1,6 +1,6 @@
 I currently work as a Senior Software Engineer in the payments industry. My company builds fintech products to support Non-Profit Organizations through payment processing and portal management tools. 
 
-Outside of work I love playing guitar and serving in my church!
+Outside of work, I love playing guitar and serving in my church!
 
 ## Education
 M.S. Computer Science - Georgia Insitute of Technology (currently in progress) <br>
