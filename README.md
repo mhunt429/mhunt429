@@ -1,4 +1,4 @@
-I currently work as a Senior Software Engineer in the payments industry. My company builds fintech products to support Non-Profit Organizations through payment processing and portal management tools. 
+I currently work as a Senior Software Engineer in the payments industry. My company builds fintech products to support churches through payment processing and donor management tools. 
 
 Outside of work, I love playing guitar and serving in my church!
 
@@ -31,5 +31,3 @@ B.B.A. Management Information Systems - Georgia College (2018)
 
 ## Test Automation
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-
