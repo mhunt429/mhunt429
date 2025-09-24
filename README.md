@@ -4,7 +4,7 @@ Outside of work, I love playing guitar and serving in my church!
 
 ## Education
 M.S. Computer Science - Georgia Institute of Technology (currently in progress) <br>
-B.B.A. Management Information Systems - Georgia College (2018)
+B.B.A. Management Information Systems - Georgia College
  
  ## Languages and Frameworks
  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
