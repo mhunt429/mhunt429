@@ -2,6 +2,8 @@ I currently work as a Senior Software Engineer in the payments industry. My comp
 
 Outside of work, I love playing guitar and serving in my church!
 
+On the side, I am building a AI backed personal finance app to help users make informed financial decisions through smart budgeting. Stay tuned!
+
 ## Education
 M.S. Computer Science - Georgia Institute of Technology (currently in progress) <br>
 B.B.A. Management Information Systems - Georgia College
